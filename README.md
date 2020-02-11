@@ -10,6 +10,10 @@ The dataset is divided into five training batches and one test batch, each with 
 ![alt text](https://github.com/ushashwat/Cifar10-CNN/blob/master/cifar-10_images.png)
 
 
-### Results
+### Acknowledgement
+Data: https://www.cs.toronto.edu/~kriz/cifar.html <br/>
+Reference paper: https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf
 
+
+### Results
 ![alt text](https://github.com/ushashwat/cifar10_cnn/blob/master/final%20image.png)

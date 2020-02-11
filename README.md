@@ -16,4 +16,4 @@ Reference paper: https://www.cs.toronto.edu/~kriz/learning-features-2009-TR.pdf
 
 
 ### Results
-![alt text](https://github.com/ushashwat/cifar10_cnn/blob/master/final%20image.png)
+![alt text](https://github.com/ushashwat/cifar10_cnn/blob/master/result_images.png)
